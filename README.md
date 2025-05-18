@@ -25,7 +25,7 @@ A machine learning project to classify SMS and email messages as **spam** or **n
 - **AWS EC2** for deployment
 
 
-  ## 🔍 Project Workflow
+## 🔍 Project Workflow
 
 ### 1. Data Cleaning
 - Removed duplicates and null values
